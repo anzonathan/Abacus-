@@ -15,3 +15,9 @@ Could we build a better syntactical language for just calculating.
 References
 - Mathematica 
 
+
+Built with C 
+
+#### Developers
+
+1. Nathaniel Mugenyi
