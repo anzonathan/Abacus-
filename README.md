@@ -23,6 +23,7 @@ References
 
 #### Upcoming Features
 1. Converting Hex, binary, and decimal
+2. Quizing on Hex, binary, and decimal configurations 
 
 
 Built with C 
