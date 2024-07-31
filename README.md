@@ -1,4 +1,5 @@
-# Abacus-
+# Abacus
+![abacus](https://github.com/user-attachments/assets/d037f825-c2a0-4984-a4a1-928e8c923ee6)
 
 
 Maybe its a calculator, maybe its a programming language. I don't know yet, but I know it will be cool. 
