@@ -1,8 +1,10 @@
 # Abacus-
 
 
-A calculator for programmers by programmers 
+Maybe its a calculator, maybe its a programming language. I don't know yet, but I know it will be cool. 
 
+### Join the Discord Server 
+- https://discord.gg/WMDPAs68
 
 ```python
 import math
