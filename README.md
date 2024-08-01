@@ -28,6 +28,7 @@ References
 4. Libraries for both C and Python
 5. Integrating TeX to write to md.
 6. A GUI
+7. A typesetting programming language like TeX or LaTeX
 
 
 
