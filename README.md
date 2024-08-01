@@ -26,7 +26,9 @@ References
 2. Quizing on Hex, binary, and decimal configurations
 3. A scalable graph
 4. Libraries for both C and Python
-5. Integrating TeX to write to md. 
+5. Integrating TeX to write to md.
+6. A GUI
+
 
 
 Built with C 
