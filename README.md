@@ -23,7 +23,10 @@ References
 
 #### Upcoming Features
 1. Converting Hex, binary, and decimal
-2. Quizing on Hex, binary, and decimal configurations 
+2. Quizing on Hex, binary, and decimal configurations
+3. A scalable graph
+4. Libraries for both C and Python
+5. Integrating TeX to write to md. 
 
 
 Built with C 
