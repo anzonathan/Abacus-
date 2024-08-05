@@ -30,7 +30,8 @@ References
 6. A GUI
 7. A typesetting programming language like TeX or LaTeX
 8. Network simulation
-9. A byte calulator 
+9. A byte calulator
+10. Sequence generators
 
 
 
