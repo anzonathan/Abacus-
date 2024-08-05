@@ -29,7 +29,8 @@ References
 5. Integrating TeX to write to md.
 6. A GUI
 7. A typesetting programming language like TeX or LaTeX
-8. Network simulation 
+8. Network simulation
+9. A byte calulator 
 
 
 
