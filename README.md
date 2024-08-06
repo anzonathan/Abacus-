@@ -16,7 +16,9 @@ print(math.pi)
 Could we build a better syntactical language for just calculating. 
 
 References
-- Mathematica 
+- Mathematica
+- Numpy (Python)
+- Math.lib (C)
 
 #### Current Features
 1. Conveting Hex to decimal and back 
@@ -32,6 +34,7 @@ References
 8. Network simulation
 9. A byte calulator
 10. Sequence generators
+11. A web API
 
 
 
