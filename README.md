@@ -7,11 +7,6 @@ Maybe its a calculator, maybe its a programming language. I don't know yet, but 
 ### Join the Discord Server 
 - https://discord.gg/WMDPAs68
 
-```python
-import math
-
-print(math.pi)
-```
 
 Could we build a better syntactical language for just calculating. 
 
